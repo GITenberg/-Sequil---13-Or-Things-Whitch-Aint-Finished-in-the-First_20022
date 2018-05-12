@@ -1,0 +1,30 @@
+_repo: -Sequil---13-Or-Things-Whitch-Aint-Finished-in-the-First_20022
+_version: 0.1.0
+alternative_title: Sequel, or things which ain't finished in the first
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shute, Henry A. (Henry Augustus)
+    alias: Shute, Henry Augustus
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '1700'
+    url: http://www.gutenberg.org/2009/agents/1700
+description: ''
+gutenberg_issued: '2006-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20022'
+  lccn: '04035726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Diary fiction'
+title: "'Sequil'\r\nOr Things Whitch Aint Finished in the First"
+url: http://www.gutenberg.org/ebooks/20022
